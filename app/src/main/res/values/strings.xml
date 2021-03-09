@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">My Task</string>
+    <string name="title">Details</string>
+    <string name="id">ID:</string>
+    <string name="name">Name:</string>
+    <string name="count_down">5 Sec</string>
+    <string name="title_user">Users</string>
+</resources>
